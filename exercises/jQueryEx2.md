@@ -8,8 +8,8 @@
 	1.	Select the last paragraph
 	1.	Select even list items
 	1.	Select the 2nd paragraph
-	1.	Select any element that has a class attribute
-	1.	Select any element that has the text Science within it
+	1.	Select any element that has a ``class`` attribute
+	1.	Select any element that has the text *Science* within it
 
 
 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
@@ -36,16 +36,16 @@
 1.	Use appropriate jQuery code to perform the following tasks (test one at a time):
 
 	1.	Align the first paragraph as centered
-	1.	Add a image element without a ``src`` attribute to your page and use jQuery to set the ``src`` attribute so an image is displayed
+	1.	Add an image element without a ``src`` attribute to your page and use jQuery to set the ``src`` attribute so an image is displayed
 	1.	Remove an attribute from any element. You should be able to see the effect of this.
 	
 
-1.	Use appropriate jQuery code perform the following tasks (test one at a time):
+1.	Use appropriate jQuery code to perform the following tasks (test one at a time):
 
 	1.	Add a double-quote (") to the beginning and end of every paragraph
 	1.	Add the text "The End" to the end of the last paragraph
 	1.	Add a horizontal rule ``<hr>`` beneath the first heading
-	1.	Add a new ordered with any content before the existing unordered list	
+	1.	Add a new ordered list with any list items you like before the existing unordered list	
 
 
 1.	Edit the HTML file ``jDOM.html``. Use appropriate jQuery code to perform the following tasks:
