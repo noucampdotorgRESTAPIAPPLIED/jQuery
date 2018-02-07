@@ -73,11 +73,11 @@ $ git status
 	```html
 	<select id="artists">
 		<option value='1'>New Order</option>
-		<option value='1'>Nick Cave & The Bad Seeds</option>
-		<option value='1'>Miles Davis</option>
-		<option value='1'>The Rolling Stones</option>
-		<option value='1'>The Stone Roses</option>
-		<option value='1'>Kylie Minogue</option>
+		<option value='2'>Nick Cave & The Bad Seeds</option>
+		<option value='3'>Miles Davis</option>
+		<option value='4'>The Rolling Stones</option>
+		<option value='5'>The Stone Roses</option>
+		<option value='6'>Kylie Minogue</option>
 	</select>
 	
 	```
