@@ -55,7 +55,7 @@ $ git status
 1.	Examine the code in [http://localhost/jQuery/Artists.html](http://localhost/jQuery/Artists.html).  It has a JavaScript file called ``Artists.js`` that will retrieve JSON artist data using ``getArtistsJSON.php``.
 
 
-1.	Write the jQuery code in  ``Artists.js`` to retrieve the JSON artist data from ``getArtistsJSON.php`` and display just the artist names in ``Artists.html`` like this:
+1.	Write the jQuery code in  ``Artists.js`` to retrieve the JSON artist data from ``getArtistsJSON.php`` and display just the artist names in ``Artists.html`` like this on separate lines:
 
 	```
 	New Order
@@ -66,6 +66,22 @@ $ git status
 	Kylie Minogue
 
 	```
+
+
+1.	Modify the solution in ``Artists.js`` to put the artists retrieved into a new dropdown box.  Use the ``artist_id`` for the ``value`` attribute and ``artist_name`` for the text.  Your dropdown box code should look something like this:
+
+	```html
+	<select id="artists">
+		<option value='1'>New Order</option>
+		<option value='1'>Nick Cave & The Bad Seeds</option>
+		<option value='1'>Miles Davis</option>
+		<option value='1'>The Rolling Stones</option>
+		<option value='1'>The Stone Roses</option>
+		<option value='1'>Kylie Minogue</option>
+	</select>
+	
+	```
+
 
 1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
 
