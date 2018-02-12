@@ -9,7 +9,7 @@ $ git status
 
 ```
 
-Setup the [6nations](../6nations/6nations.sql) database on your MySQL server.
+Setup the [6nations](../6nations/6nationsDB.sql) database on your MySQL server.
 
 
 # Part 1 – Browse
